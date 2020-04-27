@@ -19,8 +19,8 @@ team:
   enable: true
   title: My Team
   team_member:
-  - title: Director of Ops
-    image: 9D2EE782-.jpg
+  - title: Opperations
+    image: ''
     designation: 'Nathan Logan '
   - title: Jack Schenziwe
     image: images/team/member-1.png
