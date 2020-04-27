@@ -5,16 +5,16 @@ theme = "kross-hugo"
 title = "Cornerstone MQ CRM"
 [[menu.main]]
 URL = ""
-name = "Pricing "
-weight = "2"
+name = ""
+weight = ""
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = ""
+name = "Pricing "
+weight = "2"
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
