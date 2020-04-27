@@ -19,9 +19,9 @@ team:
   enable: true
   title: My Team
   team_member:
-  - title: Opperations
+  - title: Nathan Logan
     image: ''
-    designation: 'Nathan Logan '
+    designation: Opperations
   - title: Jack Schenziwe
     image: images/team/member-1.png
     designation: Project Manager
