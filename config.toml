@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Merchant Quarry "
 [[menu.main]]
+URL = ""
+name = "Pricing "
+weight = "2"
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
