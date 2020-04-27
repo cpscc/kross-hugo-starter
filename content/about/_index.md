@@ -1,13 +1,11 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: About
+date: 2019-05-12T06:14:34.000+00:00
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
+# The foundation of your business since 2001.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Cornerstone is one of the nation's leading Christian owned and operated independent sales organizations in the merchant processing industry. We have a commitment to separate our transaction processing services from the remainder of the industry. We do this by putting Christ at the cornerstone of our business. As a part of our commitment, we will not process credit card transactions for morally objectionable businesses. We are blessed to serve leading ministries and businesses across the US. Talk to us about how we can serve your organization.
