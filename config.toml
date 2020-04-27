@@ -18,7 +18,7 @@ weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = "5"
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
 phone = "+880 2544 658 256"
-theme_color = "#41228e"
+theme_color = "#008cdd"
 [params.contact]
 enable = true
 form_action = "#"
