@@ -24,7 +24,7 @@ URL = "contact"
 name = "Contact"
 weight = "5"
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "17822 E. Seventeenth Street Suite 412 Tustin, CA 92780"
 author = "Johnathan Smith"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
