@@ -4,25 +4,24 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Cornerstone MQ CRM"
 [[menu.main]]
-URL = ""
-name = ""
-weight = ""
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = ""
-name = "Pricing "
-weight = "2"
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
+name = "Meet the Team"
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = "5"
+weight = 4
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
