@@ -56,7 +56,7 @@ enable = true
 preloader = ""
 [[params.social]]
 URL = "https://www.instagram.com/cornerstonepays/"
-icon = "Instagram"
+icon = "ti-Instagram"
 [[params.social]]
 URL = "#https://twitter.com/CornerstonePays"
 icon = "ti-twitter"
