@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "INFO@CSTONEMAIL.COM"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "Cornerstone logo 1.17.jpg"
 phone = "888-506-0208"
 theme_color = "#008cdd"
 [params.contact]
